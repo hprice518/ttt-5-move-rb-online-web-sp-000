@@ -12,3 +12,5 @@ board = [" "," "," "," "," "," "," "," "," "]
 input_to_index(move)
 
 move(board, 0, "X")
+
+display_board
