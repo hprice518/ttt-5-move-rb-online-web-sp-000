@@ -9,4 +9,3 @@ move = gets.strip
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-input_to_index
