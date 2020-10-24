@@ -9,5 +9,5 @@ move = gets.strip
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-board(board, input, draw = "X")
+
 
